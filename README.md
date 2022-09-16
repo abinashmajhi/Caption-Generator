@@ -5,8 +5,6 @@ Training a neural network to generate Instagram captions for photos using a bigg
 ## THE ARTICLE
 https://towardsdatascience.com/do-it-for-the-gram-instagram-style-caption-generator-4e7044766e34
 
-![](article_ss.png)
-
 ## Data scraper: instagram-profilecrawl by Tim Grossman
 
 Quickly crawl the information (e.g. followers, tags etc...) of an instagram profile. Automation Script for crawling information from ones instagram profile.  
